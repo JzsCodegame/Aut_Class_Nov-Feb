@@ -1,0 +1,10 @@
+# ===== Eclipse =====
+.classpath
+.project
+.settings/
+
+# ===== Java build output =====
+bin/
+target/
+out/
+build/
